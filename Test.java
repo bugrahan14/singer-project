@@ -86,7 +86,7 @@ public class Test {
 
                 case 6:
                     System.out.println("SİSTEMDEN ÇIKILIYOR");
-                    System.exit(0); // Programı sonlandır
+                    System.exit(0); 
                     break;
             }
         }
